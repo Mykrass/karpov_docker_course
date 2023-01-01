@@ -13,7 +13,7 @@ def main():
       logging.error(e)
       continue
       
-    logging.info.info(f"Random value = {value}")
+    logging.info(f"Random value = {value}")
     
 if __name__== "__main__":
   main()
